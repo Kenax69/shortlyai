@@ -1,0 +1,2 @@
+# shortlyai
+IAAI Project
